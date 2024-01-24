@@ -11,6 +11,6 @@ public class direction2{
             p=p*k;
             n=n/10;
         }
-        System.out.println(p);
+        System.out.println(n);
     }
     }
