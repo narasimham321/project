@@ -1,0 +1,15 @@
+{
+    "status": "OK",
+    "results": [
+      {
+        "location": {
+          "lat": "16.543796",
+          "lng": "81.496048"
+        },
+        "name": "2 Town Police Station Bhimavaram",
+        "address": "SRKR college Bhimavaram Chinamiram 534202",
+        "phone": "",
+        "distanceMeter": "826.49"
+      }
+    ]
+  }
